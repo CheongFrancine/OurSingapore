@@ -1,4 +1,4 @@
-package com.myapplicationdev.android.p05_ndpsongs;
+package com.myapplicationdev.android.OurSingapore;
 
 import org.junit.Test;
 
